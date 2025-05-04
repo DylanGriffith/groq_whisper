@@ -1,0 +1,14 @@
+{
+  "domain": "groq_whisper",
+  "version": "0.0.1",
+  "name": "groq_whisper",
+  "codeowners": ["@DylanGriffith"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/DylanGriffith/groq_whisper",
+  "homekit": {},
+  "iot_class": "cloud_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
