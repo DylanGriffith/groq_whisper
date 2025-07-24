@@ -2,7 +2,7 @@
 
 DOMAIN = "groq_whisper"
 
-MODEL = "distil-whisper-large-v3-en"
+MODEL = "whisper-large-v3-turbo"
 LANGUAGE = "en"
 SUPPORTED_LANGUAGES = [LANGUAGE]
 TEMPERATURE = 0.0
